@@ -1,0 +1,257 @@
+lang_dict = {
+    'language': {
+        'uz': "O'zbekcha",
+        'ru': "Русский",
+        'tr': "Türkçe"
+    },
+    'back': {
+        'uz': "Orqaga",
+        'ru': "Назад",
+        'tr': "Geri"
+    },
+    'restaurant_closed': {
+        'uz': "Uzr yetkazib berish ish vaqti tugadi",
+        'ru': "Uzr yetkazib berish ish vaqti tugadi",
+        'tr': "Uzr yetkazib berish ish vaqti tugadi"
+    },
+    'date_of_birth_text': {
+        'uz': "Tug'ilgan kuningizni kiriting",
+        'ru': "Tug'ilgan kuningizni kiriting",
+        'tr': "Tug'ilgan kuningizni kiriting"
+    },
+    'product_support_text': {
+        'uz': "Quyidagilardan birini tanlang",
+        'ru': "Выберите одно из следующих",
+        'tr': "Выберите одно из следующих"
+    },
+    'price_all_text': {
+        'uz': "Umumiy",
+        'ru': "Итого",
+        'tr': "Toplam"
+    },
+    'price_currency_text': {
+        'uz': "so'm",
+        'ru': "сум",
+        'tr': "sum"
+    },
+    'chenge_lang_text': {
+        'uz': "Tilni tanlang.",
+        'ru': "Язык успешно изменен.",
+        'tr': "Dil başarıyla değiştirildi."
+    },
+    'chenged_lang_text': {
+        'uz': "Til muvaffaqiyatli tanlandi.",
+        'ru': "Язык успешно изменен.",
+        'tr': "Dil başarıyla değiştirildi."
+    },    
+    'category_text': {
+        'uz': "Kategoriyani tanlang.",
+        'ru': "Kategoriyani tanlang.",
+        'tr': "Kategoriyani tanlang."
+    },
+    'main_menu': {
+        'uz': ["🍽 Menyu", "🛒 Mening buyurtmalarim", "🖋 Fikr bildirish", "Bizning manzil", "⚙️ Sozlamalar"],
+        'ru': ["🍽 Меню", "🛒 Мои заказы", "🖋 Оставить отзыв", "Наш адрес", "⚙️ Настройки"],
+        'tr': ["🍽 Menü", "🛒 Siparişlerim", "🖋 Geri bildirim bırakın", "Bizim adresimiz", "⚙️ Ayarlar"],
+    },
+    'main_menu_text': {
+        'uz': "Bo'limni tanlang",
+        'ru': "Выберите одно из следующих",
+        'tr': "Dil başarıyla değiştirildi."
+    },
+    'comments_text': {
+        'uz': "Izohingizni yuboring. \n\Kontaktlar: +998990001219",
+        'ru': "otpravte komments. \n\Kontaktlar: +998990001219",
+        'tr': "send comments. \n\Kontaktlar: +998990001219",
+    },
+    'comments_recieved_text': {
+        'uz': "Rahmat. Izohingizni qabul qilindi",
+        'ru': "Rahmat. Izohingizni qabul qilindi",
+        'tr': "Rahmat. Izohingizni qabul qilindi",
+    },
+    'cart': {
+        'uz': "🛒 Savatcha",
+        'ru': "🛒 Корзина",
+        'tr': "🛒 Alışveriş sepetikçe"
+    },
+    'item_added_cart_text': {
+        'uz': "🛒 Mahsulot savatchaga qo'shildi",
+        'ru': "🛒 Mahsulot savatchaga qo'shildi",
+        'tr': "🛒 Mahsulot savatchaga qo'shildi"
+    },
+    'empty_cart_text': {
+        'uz': "Savatingiz boʻsh",
+        'ru': "Ваша корзина пусто",
+        'tr': "Sepetiniz boş"
+    },
+    'in_cart_text': {
+        'uz': "🛒 Savatchada",
+        'ru': "🛒 В корзине",
+        'tr': "🛒 Sepette"
+    },
+    'cart_clearance': {
+        'uz': "Buyurtmani rasmiylashtirish",
+        'ru': "Оформить заказ",
+        'tr': "Sipariş düzenleniyor"
+    },
+    'cart_clear': {
+        'uz': "Savatchani tozalash",
+        'ru': "Отчистить корзину",
+        'tr': "sepetin temizlenmesi"
+    },
+    'delivery_time': {
+        'uz': "Yetkazib berish vaqti",
+        'ru': "Время доставки",
+        'tr': "Teslimat süresi"
+    },
+    'phone_text': {
+        'uz': "📞 Мой номер",
+        'ru': "📞 Мой номер",
+        'tr': "📞 Мой номер"
+    },
+    'phone_ask_text': {
+        'uz': "Telefon raqamizni kiriting!",
+        'ru': "Отправьте или введите ваш номер телефона в формате:\n+998 ** *** ** ** Примечание: Если вы планируете оплатить заказ онлайн с помощью Click, либо Payme, пожалуйста, укажите номер телефона, на который зарегистрирован аккаунт в соответствующем сервисе.",
+        'tr': "Teslimat süresi"
+    },
+    'location_text': {
+        'uz': "📍 Отправить геолокацию",
+        'ru': "📍 Отправить геолокацию",
+        'tr': "📍 Отправить геолокацию"
+    },
+    'location_ask_text': {
+        'uz': "Отправьте 📍 геолокацию или выберите адрес доставки",
+        'ru': "Отправьте 📍 геолокацию или выберите адрес доставки",
+        'tr': "Отправьте 📍 геолокацию или выберите адрес доставки"
+    },
+    'location_confirm_yes': {
+        'uz': "🟢 Ha",
+        'ru': "🟢 Да",
+        'tr': "🟢 Evet"
+    },
+    'location_confirm_no': {
+        'uz': "🔴 Yo'q",
+        'ru': "🔴 Нет",
+        'tr': "🔴 Нет"
+    },
+    'location_confirm_text': {
+        'uz': "Bu siz istagan joymi?",
+        'ru': "Bu siz istagan joymi?",
+        'tr': "Bu siz istagan joymi?"
+    },
+    'location_out_text': {
+        'uz': "Uzr. Hozirda dostavka faqat Toshkent uchun amal qiladi.",
+        'ru': "Uzr. Hozirda dostavka faqat Toshkent uchun amal qiladi.",
+        'tr': "Uzr. Hozirda dostavka faqat Toshkent uchun amal qiladi."
+    },
+    'payment_text': {
+        'uz': "Naqt",
+        'ru': "Наличные",
+        'tr': "Peşin"
+    },
+    'payment_ask_text': {
+        'uz': "To'lov turini tanlang.",
+        'ru': "Пожалуйста, выберите тип оплаты",
+        'tr': "Пожалуйста, выберите тип оплаты"
+    },
+    'full_name_ask_text': {
+        'uz': "Ism familyangizni kiriting",
+        'ru': "Ism familyangizni kiriting",
+        'tr': "Ism familyangizni kiriting"
+    },
+    'full_name_ask_text': {
+        'uz': "Ism familyangizni kiriting",
+        'ru': "Ism familyangizni kiriting",
+        'tr': "Ism familyangizni kiriting"
+    },
+    'admin_main_menu': {
+        'uz': ["🍽 Menyu", "Buyurtmalar", "Yetkazib beruvchilar", "⚙️ Sozlamalar"],
+        'ru': ["🍽 Меню", "заказы", "dostavshiki", "⚙️ Настройки"],
+        'tr': ["🍽 Menü", "заказы", "dostavshiki", "⚙️ Ayarlar"],
+    },
+    'no_order_text': {
+        'uz': "Hozirda sizda buyurtmalar mavjud emas.",
+        'ru': "В настоящее время у вас нет заказов.",
+        'tr': "В настоящее время у вас нет заказов."
+    },
+    'order_number_text': {
+        'uz': "Buyurtma raqami: {}\nStatus: {}\nManzil: {}\n",
+        'ru': "Buyurtma raqami: {}\nStatus: {}\nManzil: {}\n",
+        'tr': "Buyurtma raqami: {}\nStatus: {}\nManzil: {}\n"
+    },
+    'order_rejected_text': {
+        'uz': "Buyurtma № {} bekor qilindi.",
+        'ru': "Buyurtma № {} bekor qilindi.",
+        'tr': "Buyurtma № {} bekor qilindi."
+    },
+    'order_onway_text': {
+        'uz': "Buyurtma № {} Yo'lga chiqdi.",
+        'ru': "Buyurtma № {} Yo'lga chiqdi.",
+        'tr': "Buyurtma № {} Yo'lga chiqdi."
+    },
+    'order_delivered_text': {
+        'uz': "Buyurtma № {} Yetkazib berildi.",
+        'ru': "Buyurtma № {} Yetkazib berildi.",
+        'tr': "Buyurtma № {} Yetkazib berildi."
+    },
+    'orders_count_text': {
+        'uz': "Sizda yetkazib berilgan va bekor qilingan buyurtmalar umumiy soni {}",
+        'ru': "Sizda yetkazib berilgan va bekor qilingan buyurtmalar umumiy soni {}",
+        'tr': "Sizda yetkazib berilgan va bekor qilingan buyurtmalar umumiy soni {}"
+    },
+    'active': {
+        'uz': " Aktiv",
+        'ru': " Aktiv",
+        'tr': " Aktiv"
+    },
+    'rejected': {
+        'uz': " Bekor qilingan.",
+        'ru': " Bekor qilingan.",
+        'tr': " Bekor qilingan."
+    },
+    'process': {
+        'uz': " Tayyorlanmoqda",
+        'ru': " Tayyorlanmoqda",
+        'tr': " Tayyorlanmoqda"
+    },
+    'onway': {
+        'uz': " Yo'lda",
+        'ru': " Yo'lda",
+        'tr': " Yo'lda"
+    },
+    'delivered': {
+        'uz': " Yetkazib berilgan",
+        'ru': " Yetkazib berilgan",
+        'tr': " Yetkazib berilgan"
+    },
+    'order_payment_type_cash_text': {
+        'uz': "Naqt",
+        'ru': "Naqt",
+        'tr': "Naqt"
+    },
+    'order_payment_text': {
+        'uz': "\n\nTo'lov turi: {}\n\nТовары: {} сум\nYetkazib berish: bepul\nUmumiy: {} сум",
+        'ru': "\n\nTo'lov turi: {}\n\nТовары: {} сум\nYetkazib berish: bepul\nUmumiy: {} сум",
+        'tr': "\n\nTo'lov turi: {}\n\nТовары: {} сум\nYetkazib berish: bepul\nUmumiy: {} сум"
+    },
+    'order_payment_waiting_text': {
+        'uz': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nРасчетное время доставки заказа 1 chas с момента оплаты счета.",
+        'ru': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nРасчетное время доставки заказа 1 chas с момента оплаты счета.",
+        'tr': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nРасчетное время доставки заказа 1 chas с момента оплаты счета."
+    },
+    'order_payment_waiting_with_time_text': {
+        'uz': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nYetkazib berish vaqti {}:00.\nBuyurtma to'lov amalga oshirilgandan so'ng aktiv hisoblanadi.",
+        'ru': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nYetkazib berish vaqti {}:00.\nBuyurtma to'lov amalga oshirilgandan so'ng aktiv hisoblanadi.",
+        'tr': "\n\nВаш заказ оформлен.\n\nНа указанный Вами номер, в ближайшее время будет выставлен счёт.\nYetkazib berish vaqti {}:00.\nBuyurtma to'lov amalga oshirilgandan so'ng aktiv hisoblanadi."
+    },
+    'order_payment_notwaiting_with_time_text': {
+        'uz': "\n\nВаш заказ оформлен.\n\nYetkazib berish vaqti {}:00",
+        'ru': "\n\nВаш заказ оформлен.\n\nYetkazib berish vaqti {}:00",
+        'tr': "\n\nВаш заказ оформлен.\n\nYetkazib berish vaqti {}:00"
+    },
+    'order_payment_notwaiting_text': {
+        'uz': "\n\nВаш заказ оформлен.\n\nРасчетное время доставки заказа 1 chas с момента оплаты счета.",
+        'ru': "\n\nВаш заказ оформлен.\n\nРасчетное время доставки заказа 1 chas с момента оплаты счета.",
+        'tr': "\n\nВаш заказ оформлен.\n\nРасчетное время доставки заказа 1 chas с момента оплаты счета."
+    },
+}
